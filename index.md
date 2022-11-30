@@ -1,4 +1,4 @@
 ---
-title: Machine Learning for System Identification
+title: Research Blog
 ---
 
