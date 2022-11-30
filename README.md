@@ -1,1 +1,1 @@
-# Minimal Github page to publish reasearch results
+# Minimal Github page to publish research results
